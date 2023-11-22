@@ -1,9 +1,9 @@
 <h1 align="center">Talys aqui, bem-vindo! 🛸</h1>
 
-<div align="center;">
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Status profile"/>
- <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt=""/>
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt=""/> 
+<div align="center">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Status profile"/>
+ <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt=""/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt=""/> 
 </div>
 
 <br/>
