@@ -1,15 +1,19 @@
-<h1 align="center">Talys aqui, bem-vindo! 🛸</h1>
+<div align="center">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1000&pause=1000&color=C3C3C3&background=25FFFD00&center=true&vCenter=true&random=false&width=435&lines=Talys+aqui!+Seja+Bem-Vindo!++%F0%9F%9B%B8+;Desenvolvedor+Front-End+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+<br>
 
 <div align="center">
  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Status profile"/>
- <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt=""/>
- <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt=""/> 
+ <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt="Status Profile"/>
+ <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Status Profile"/> 
 </div>
 
 <br/>
 
 <div>
- <img width="420" height="310" align="right" src="https://github.com/Talyslan/Talyslan/assets/78499700/5228b1bf-729a-4fed-94fc-82d5fab2c234" alt="quebrou" style="margin: 50%" /> 
+ <img width="420" height="310" align="right" src="https://github.com/Talyslan/Talyslan/assets/78499700/5228b1bf-729a-4fed-94fc-82d5fab2c234" alt="Rick and Morty" style="margin: 50%" /> 
  <samp align="left">
   <div>
    <h3>🪂 Opa, deixa eu me apresentar:</h3>
@@ -45,9 +49,9 @@
 
 <div style="display: inline_block" align="center">
   <h3>Tecnologias que sei e to sempre aprendendo:</h3>
-  <img align="center" alt="Js" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">      
   <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
@@ -56,7 +60,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
+      <img width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
     </td>
     <td style="border: 0";>
      <samp>
