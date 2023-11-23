@@ -15,7 +15,7 @@
 <br/>
 
 <div>
- <img width="220" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" /> 
+ <img width="180" align="right" src="https://img.wattpad.com/5667066bdfdd371c4eb8de68c67ec51d0438d141/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f53764f3042744a763051454f48773d3d2d3637373934353631332e313537373633343635366664633235643733383434323933333337352e676966" alt="Rick and Morty" style="margin: 50%" /> 
  <samp align="left">
   <div>
    <h3>🪂 Opa, deixa eu me apresentar:</h3>
@@ -26,7 +26,7 @@
    </p>
   </div>
 
-<img width="220" align="left" src="https://img.wattpad.com/5667066bdfdd371c4eb8de68c67ec51d0438d141/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f53764f3042744a763051454f48773d3d2d3637373934353631332e313537373633343635366664633235643733383434323933333337352e676966" alt="Rick and Morty" style="margin: 50%" />
+<img width="220" align="left" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" />
   <div>
    <h3>🚀 Contribuo para alguns projetos:</h3>
    <ul>
