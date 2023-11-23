@@ -59,34 +59,18 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td style="border: 0";>
-      <img width="250" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
-    </td>
-    <td style="border: 0";>
-     <samp>
-      <p>
-        💻 Amo tecnologia, seus desafios, sua lógica, eu me encontrei aqui.
-      </p>
-      <p>
-        🌙 Fazer sempre um pouco todo dia.
-      </p>
-     </samp>
-      <h3>Contacte-me</h3>
-      <ul>
-        <li>
-           <a href="https://instagram.com/talys.c" target ="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/Talyslan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        </li>
-       <li>
-          <a href = "mailto:talyslancpc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-       </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+ <img width="250" align="left" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
+
+<div align="left">
+ <samp>
+  <p> 💻 Amo tecnologia, seus desafios, sua lógica, eu me encontrei aqui. </p>
+  <p>🌙 Fazer sempre um pouco todo dia.</p>
+ </samp>
+ 
+ <h3>Contacte-me</h3>
+ <a href="https://instagram.com/talys.c" target ="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/Talyslan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:talyslancpc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:a82da8&height=100&section=footer&reversal=true" />
