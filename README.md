@@ -89,3 +89,4 @@
   </tr>
 </table>
 
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:a82da8&height=100&section=footer&reversal=true" />
