@@ -1,3 +1,5 @@
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:a82da8&height=100&section=header" />
+
 <div align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1000&pause=1000&color=C3C3C3&background=25FFFD00&center=true&vCenter=true&random=false&width=435&lines=Talys+aqui!+Seja+Bem-Vindo!++%F0%9F%9B%B8+;Desenvolvedor+Front-End+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
