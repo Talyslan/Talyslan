@@ -15,7 +15,7 @@
 <br/>
 
 <div>
- <img width="350" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" /> 
+ <img width="220" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" /> 
  <samp align="left">
   <div>
    <h3>🪂 Opa, deixa eu me apresentar:</h3>
