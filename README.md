@@ -15,7 +15,7 @@
 <br/>
 
 <div>
- <img width="420" height="310" align="right" src="https://github.com/Talyslan/Talyslan/assets/78499700/5228b1bf-729a-4fed-94fc-82d5fab2c234" alt="Rick and Morty" style="margin: 50%" /> 
+ <img width="350" align="right" src="https://github.com/Talyslan/Talyslan/assets/78499700/5228b1bf-729a-4fed-94fc-82d5fab2c234" alt="Rick and Morty" style="margin: 50%" /> 
  <samp align="left">
   <div>
    <h3>🪂 Opa, deixa eu me apresentar:</h3>
