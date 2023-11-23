@@ -62,7 +62,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
+      <img width="250" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
     </td>
     <td style="border: 0";>
      <samp>
