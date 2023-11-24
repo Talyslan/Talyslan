@@ -73,4 +73,6 @@
  <a href = "mailto:talyslancpc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<img height="25" src="https://img.shields.io/badge/license-MIT-8A2BE2" alt="license MIT"> 
+
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:a82da8&height=100&section=footer&reversal=true" />
