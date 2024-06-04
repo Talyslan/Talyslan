@@ -18,7 +18,7 @@
  <img width="180" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" /> 
  <samp align="left">
   <div>
-   <h3>🪂 Opa, deixa eu me apresentar:</h3>
+   <h3>🪂 Olá, deixa eu me apresentar:</h3>
    <p max-width="30%">
      Meu nome é Talyslan Canabarro e sou natural de Maceió - Alagoas, tenho 17 anos.
      Curso o técnico em Desenvolvimento de Sistemas no IFAL.
