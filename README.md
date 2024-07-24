@@ -20,24 +20,30 @@
   <div>
    <h3>🪂 Olá, deixa eu me apresentar:</h3>
    <p max-width="30%">
-     Meu nome é Talyslan Canabarro e sou natural de Maceió - Alagoas, tenho 17 anos.
+     Meu nome é Talyslan Canabarro e sou natural de Maceió - Alagoas, tenho 18 anos.
      Curso o técnico em Desenvolvimento de Sistemas no IFAL.
-     Estou focado no desenvolvimento de projetos <strong>Front-End</strong>.
+     Estou focado no desenvolvimento de projetos <strong>Front-End</strong>, porém também realizo projetos Back-End e FullStack.
    </p>
   </div>
   
   <div>
-   <h3>🚀 Contribuo para alguns projetos:</h3>
+   <h3>🚀 Contribui e contribuo para alguns projetos:</h3>
    <ul>
     <li>
      <p max-width="50%">
-       <strong>Blessed: </strong>
+        <strong>Oportunista X (Atual) </strong>
+        Desenvolvo um sistema FullStack com minha equipe a fim da melhor integração de empresas e professores com os alunos do IFAL, disponibilizando projetos, vagas de empregos e estágios.
+      </p>
+    </li>
+    <li>
+     <p max-width="50%">
+       <strong>Blessed (Finalizado) </strong>
        Fui monitor nas aulas de Programção web do projeto de ensino, atuei criando slides, ministrando aulas e criando exercícios junto à minha equipe, ensinando o básico e o intermediário sobre HTML, CSS e JavaScript.
      </p>
     </li>
     <li>
      <p max-width="50%">
-        <strong>AMO - Alagoas no Mapa da OBI: </strong>
+        <strong>AMO - Alagoas no Mapa da OBI (Finalizado) </strong>
         Ministrei aulas sobre introdução a programação nas linguagens JavaScript e Python, além de desenvolver o site e participar do grupo de divulgação e redes sociais do projeto.
       </p>
     </li>
@@ -54,7 +60,11 @@
   <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">      
   <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Typescript" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
   <img align="center" alt="React JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Next JS" height="35" width="35" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" />
+  <img align="center" alt="Tailwind CSS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
+  <img align="center" alt="Vue JS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" />
 </div>
 
 <br/>
