@@ -15,67 +15,69 @@
 <br/>
 
 <div>
- <img width="180" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" /> 
- <samp align="left">
+  <img width="180" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Rick and Morty" style="margin: 50%" /> 
   <div>
-   <h3>🪂 Olá, deixa eu me apresentar:</h3>
+   <h2>🪂 Olá! Eu sou o Talyslan Canabarro</h2>
    <p max-width="30%">
-     Meu nome é Talyslan Canabarro e sou natural de Maceió - Alagoas, tenho 18 anos.
-     Curso o técnico em Desenvolvimento de Sistemas no IFAL.
-     Estou focado no desenvolvimento de projetos <strong>Front-End</strong>, porém também realizo projetos Back-End e FullStack.
+     📍 Maceió - AL | 🎓 Técnico em Desenvolvimento de Sistemas pelo IFAL | 💡 Apaixonado por tecnologia e inovação
+   </p>
+   <p>
+     Atualmente focado no <strong>desenvolvimento Front-End</strong>, mas com experiências completas em <strong>projetos Full Stack</strong> usando tecnologias modernas como React, Next.js, Node.js, Firebase, Prisma e mais.
    </p>
   </div>
-  
+
+  <br />
+  <br />
+
+  <div align="center">
+    <h3  style="display: inline_block" align="center">🛠️ Tecnologias & Ferramentas</h3>
+    <img align="center" alt="Next JS" height="35" width="35" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" />
+    <img align="center" alt="Tailwind CSS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
+    <img align="center" alt="React JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Vue JS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" />
+    <img align="center" alt="Typescript" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
+    <img align="center" alt="Js" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">      
+ </div>
+
+  <br />
+  <br />
+
   <div>
-   <h3>🚀 Contribui e contribuo para alguns projetos:</h3>
+   <h3>🚀 Projetos em destaque</h3>
    <ul>
     <li>
+     <p><strong>💼 Oportunista X (Atual)</strong></p>
      <p max-width="50%">
-        <strong>Oportunista X (Atual) </strong>
-        Desenvolvo um sistema FullStack com minha equipe a fim da melhor integração de empresas e professores com os alunos do IFAL, disponibilizando projetos, vagas de empregos e estágios.
+        Sistema FullStack para conectar alunos, empresas e professores com oportunidades como estágios e projetos no IFAL.
       </p>
     </li>
     <li>
+      <p><strong>📚 Blessed (Concluído)</strong></p>
      <p max-width="50%">
-       <strong>Blessed (Finalizado) </strong>
-       Fui monitor nas aulas de Programção web do projeto de ensino, atuei criando slides, ministrando aulas e criando exercícios junto à minha equipe, ensinando o básico e o intermediário sobre HTML, CSS e JavaScript.
+       Projeto de ensino de programação Web. Atuei como monitor, ministrando aulas e produzindo conteúdo em HTML, CSS e JS.
      </p>
     </li>
     <li>
-     <p max-width="50%">
-        <strong>AMO - Alagoas no Mapa da OBI (Finalizado) </strong>
-        Ministrei aulas sobre introdução a programação nas linguagens JavaScript e Python, além de desenvolver o site e participar do grupo de divulgação e redes sociais do projeto.
+       <p><strong>🗺️ AMO - Alagoas no Mapa da OBI (Concluído)</strong></p>
+      <p max-width="50%">
+        Responsável por aulas introdutórias em JavaScript e Python, além do desenvolvimento do site e ações de divulgação.
       </p>
     </li>
    </ul>
    
   </div>
- </samp>
 </div>
 
 <br/>
-
-<div style="display: inline_block" align="center">
-  <h3>Tecnologias que sei e to sempre aprendendo:</h3>
-  <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">      
-  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typescript" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
-  <img align="center" alt="React JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Next JS" height="35" width="35" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" />
-  <img align="center" alt="Tailwind CSS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
-  <img align="center" alt="Vue JS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" />
-</div>
-
 <br/>
 
  <img width="250" align="left" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
 
 <div align="left">
- <samp>
   <p> 💻 Amo tecnologia, seus desafios, sua lógica, eu me encontrei aqui. </p>
   <p>🌙 Fazer sempre um pouco todo dia.</p>
- </samp>
  
  <h3>Contacte-me</h3>
  <a href="https://instagram.com/talys.c" target ="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
