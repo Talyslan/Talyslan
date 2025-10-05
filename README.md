@@ -6,6 +6,10 @@
 <!-- Capa do perfil -->
 <img width="1584" height="400" alt="Capa" src="https://github.com/user-attachments/assets/4f04fa60-a9fb-4e0d-82f0-0e9fede6fc1e" />
 
+ ## Olá, pode me chamar de Talys 👋
+ 
+📍 Maceió, AL | Apaixonado por tecnologia e inovação 💡
+
 <div align="center">
  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Status profile"/>
  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt="Status Profile"/>
@@ -34,11 +38,7 @@
     <img align="center" alt="git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
  </div>
 
- ## Olá, pode me chamar de Talys 👋
-
  <img width="180" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Coffee image" style="margin: 50%" /> 
-
-📍 Maceió, AL | Apaixonado por tecnologia e inovação 💡
 
 Sou Técnico em Desenvolvimento de Sistemas pelo IFAL, focado no desenvolvimento Full-stack com React, Next.js, Node.js, Firebase e Prisma. Apaixonado por tecnologia, educação e impacto social, atuo em projetos que unem inovação e propósito. Tenho experiência com integração de sistemas, segurança digital e projetos acadêmicos (PIBITI/PIBIC). Valorizo o aprendizado contínuo, o trabalho colaborativo e a criação de soluções eficientes que geram valor real.
 
