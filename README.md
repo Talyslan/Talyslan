@@ -19,10 +19,10 @@
   <div>
    <h2>🪂 Olá! Eu sou o Talyslan Canabarro</h2>
    <p max-width="30%">
-     📍 Maceió - AL | 🎓 Técnico em Desenvolvimento de Sistemas pelo IFAL | 💡 Apaixonado por tecnologia e inovação
+     📍 Maceió - AL | 🎓 Téc. em Desenvolvimento de Sistemas pelo IFAL | 💡 Apaixonado por tecnologia e inovação
    </p>
    <p>
-     Atualmente focado no <strong>desenvolvimento Front-End</strong>, mas com experiências completas em <strong>projetos Full Stack</strong> usando tecnologias modernas como React, Next.js, Node.js, Firebase, Prisma e mais.
+     Atualmente focado no <strong>desenvolvimento Full-stack</strong> e com experiências completas usando tecnologias modernas como React, Next.js, Node.js, Firebase, Prisma e muito mais.
    </p>
   </div>
 
@@ -48,19 +48,19 @@
    <h3>🚀 Projetos em destaque</h3>
    <ul>
     <li>
-     <p><strong>💼 Oportunista X (Atual)</strong></p>
+     <p><strong>💼 Oportuniza</strong></p>
      <p max-width="50%">
-        Sistema FullStack para conectar alunos, empresas e professores com oportunidades como estágios e projetos no IFAL.
+        Sistema FullStack para conectar alunos, empresas e professores com oportunidades, como estágios, pesquisas e eventos no IFAL.
       </p>
     </li>
     <li>
-      <p><strong>📚 Blessed (Concluído)</strong></p>
+      <p><strong>📚 Blessed</strong></p>
      <p max-width="50%">
        Projeto de ensino de programação Web. Atuei como monitor, ministrando aulas e produzindo conteúdo em HTML, CSS e JS.
      </p>
     </li>
     <li>
-       <p><strong>🗺️ AMO - Alagoas no Mapa da OBI (Concluído)</strong></p>
+       <p><strong>🗺️ AMO - Alagoas no Mapa da OBI</strong></p>
       <p max-width="50%">
         Responsável por aulas introdutórias em JavaScript e Python, além do desenvolvimento do site e ações de divulgação.
       </p>
