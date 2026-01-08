@@ -42,9 +42,9 @@
 
 Sou Técnico em Desenvolvimento de Sistemas pelo IFAL, focado no desenvolvimento Full-stack com React, Next.js, Node.js, Firebase e Prisma. Apaixonado por tecnologia, educação e impacto social, atuo em projetos que unem inovação e propósito. Tenho experiência com integração de sistemas, segurança digital e projetos acadêmicos (PIBITI/PIBIC). Valorizo o aprendizado contínuo, o trabalho colaborativo e a criação de soluções eficientes que geram valor real.
 
-## 💼 Experiência de trabalho
+## 💼 Conecte-se comigo
 
-Confira meu [LinkedIn](https://www.linkedin.com/in/talyslan-canabarro-19408927b/) para saber mais sobre minha experiência, formação e certificações.
+Confira meu [Portfólio](https://talyslan-portfolio.vercel.app/) para saber mais sobre mim, meu currículo e projetos principais.
 
 ## Contacte-me
 
