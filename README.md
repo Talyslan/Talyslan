@@ -10,37 +10,51 @@
  
 📍 Maceió, AL | Apaixonado por tecnologia e inovação 💡
 
+Sou Técnico em Desenvolvimento de Sistemas pelo IFAL, focado no desenvolvimento Full-stack com React, Next.js, Node.js, Firebase e Prisma. Apaixonado por tecnologia, educação e impacto social, atuo em projetos que unem inovação e propósito. Tenho experiência com integração de sistemas, segurança digital e projetos acadêmicos (PIBITI/PIBIC). Valorizo o aprendizado contínuo, o trabalho colaborativo e a criação de soluções eficientes que geram valor real.
+
+
 <div align="center">
  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Status profile"/>
  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt="Status Profile"/>
  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Status Profile"/> 
 </div>
 
-  <div align="center">
-    <h3  style="display: inline_block" align="center">🛠️ Tecnologias & Ferramentas</h3>
-    <img align="center" alt="Nextjs" height="35" width="35" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" />
-    <img align="center" alt="Tailwind CSS" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
-    <img align="center" alt="Reactjs" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Vitejs" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-    <img align="center" alt="astro" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-    <img align="center" alt="mysql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="prisma" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />  
-    <img align="center" alt="sequelize" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-    <br />
-    <img align="center" alt="firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-    <img align="center" alt="Vuejs" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" />
-    <img align="center" alt="Nestjs" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="center" alt="jest" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />      
-    <img align="center" alt="Typescript" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
-    <img align="center" alt="Js" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- </div>
+## Tecnologias & Ferramentas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
+### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
+
+### Backend e Testes
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
+
+### Banco de Dados & ORM
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+### 🧰 Ferramentas & Linguagens & DevOps
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
  <img width="180" align="right" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" alt="Coffee image" style="margin: 50%" /> 
-
-Sou Técnico em Desenvolvimento de Sistemas pelo IFAL, focado no desenvolvimento Full-stack com React, Next.js, Node.js, Firebase e Prisma. Apaixonado por tecnologia, educação e impacto social, atuo em projetos que unem inovação e propósito. Tenho experiência com integração de sistemas, segurança digital e projetos acadêmicos (PIBITI/PIBIC). Valorizo o aprendizado contínuo, o trabalho colaborativo e a criação de soluções eficientes que geram valor real.
 
 ## 💼 Conecte-se comigo
 
@@ -48,15 +62,8 @@ Confira meu [Portfólio](https://talyslan-portfolio.vercel.app/) para saber mais
 
 ## Contacte-me
 
-<a href="https://instagram.com/talys.c" target ="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/talyslan-canabarro-19408927b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:talyslancpc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<img width="100%" align="center" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="computer" />
-
-<div align="center">
-  <p> 💻 Amo tecnologia, seus desafios, sua lógica, eu me encontrei aqui. </p>
-  <p>🌙 Fazer sempre um pouco todo dia.</p>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/talys.c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talyslan-canabarro-19408927b/)
+[![Gmail](https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talyslancpc@gmail.com)
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:a82da8&height=100&section=footer&reversal=true" width="100%"/>
