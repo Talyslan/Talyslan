@@ -14,9 +14,8 @@ Sou Técnico em Desenvolvimento de Sistemas pelo IFAL, focado no desenvolvimento
 
 
 <div align="center">
- <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Status profile"/>
- <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyslan&theme=tokyonight&hide_border=false" alt="Status Profile"/>
- <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talyslan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Status Profile"/> 
+ <img height="110em" src="https://github-stats-extended.vercel.app/api?username=Talyslan&show_icons=true&include_all_commits=true&theme=rose_pine" alt="Status Profile"/>
+ <img height="110em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Talyslan&layout=compact&langs_count=8&theme=rose_pine" alt="Linguagens profile"/> 
 </div>
 
 ## Tecnologias & Ferramentas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
